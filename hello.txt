@@ -1,0 +1,12 @@
+Hello Professor,
+
+My name is Anton, and I am in your class.
+I am enjoying this class very much.
+My mom named me Anton because she liked the name.
+I also like programming in Java.
+Sometimes I struggle with Streams and Collections.
+But practice makes perfect.
+I hope to learn a lot from this course.
+Do you have any tips for filtering text efficiently?
+Thank you for your guidance.
+
